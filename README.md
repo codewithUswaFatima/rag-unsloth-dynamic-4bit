@@ -151,4 +151,4 @@ A 26-page lecture PDF was added and re-indexed into 41 chunks. Specific question
 
 - Colab notebook: [Task3_RAG_Unsloth_Dynamic4bit.ipynb](https://colab.research.google.com/github/codewithUswaFatima/rag-unsloth-dynamic-4bit/blob/main/Task3_RAG_Unsloth_Dynamic4bit.ipynb)
 - GitHub: https://github.com/codewithUswaFatima/rag-unsloth-dynamic-4bit
-- LinkedIn post: **[paste link]**
+- LinkedIn post: **https://lnkd.in/p/d-_YgwGs**
