@@ -5,7 +5,7 @@
 A Retrieval-Augmented Generation (RAG) pipeline that answers questions from your own documents using an **Unsloth dynamic 4-bit quantized LLM**. It runs end to end on the free Google Colab **Tesla T4** GPU and peaks at only **2.58 GB of VRAM**.
 
 > Internship project for ArchTechnologies  
-> Author: **[Your Full Name]** | Domain: **[Your Internship Domain]** | Email: **[your.email@example.com]**  
+> Author: **Uswa Fatima** | Domain: **Arch Technologies** | Email: **uswaf357@gmail.com**  
 > GitHub: [@codewithUswaFatima](https://github.com/codewithUswaFatima)
 
 ---
